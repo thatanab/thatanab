@@ -9,7 +9,7 @@ Currently, I'm pivoting towards **Data Analytics** and **Enterprise Architecture
 ---
 
 ### 📊 My Data Analytics Journey
-Currently in this GitHub, you will only find my **Data Analytics portfolio**. These projects demonstrate my ability to transform raw data into actionable insights which I gained data knowledge and skills from **DataRockie Bootcamp**.
+Currently in this GitHub, you will only find my **Data Analytics portfolio** in **datarockie-dsb12-2025** repository. These projects demonstrate my ability to transform raw data into actionable insights which I gained data knowledge and skills from **DataRockie Bootcamp**.
 However, I am willing to add more content from my expertise into Github in the future. Please keep in touch !
 
 ---

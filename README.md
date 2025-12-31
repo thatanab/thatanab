@@ -37,7 +37,9 @@ However, I am willing to add more content from my expertise into Github in the f
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatana-banchuencharoensuk/)
+<a href="https://www.linkedin.com/in/thatana-banchuencharoensuk/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
+</a>
 
 ---
 

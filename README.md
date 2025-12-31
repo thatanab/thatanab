@@ -42,5 +42,5 @@ However, I am willing to add more content from my expertise into Github in the f
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatanab&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatanab&layout=compact&theme=dark)
+![Thatana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatanab&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatanab&layout=compact&theme=tokyonight&hide_border=true)

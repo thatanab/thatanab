@@ -1,7 +1,7 @@
 # Hello World ✋ My name is Thatana Banchuencharoensuk 
 
 I am a **Project Manager/PMO** with extensive experience in the non-life insurance industry in Bangkok, Thailand. 
-Currently, I'm pivoting towards **Data Analytics** and **Enterprise Architecture** in my career path. 
+New to **Data Analytics** 
 
 * 📍 Based in Bangkok, Thailand
 * ✉️ Contact me at: [thatana.b@gmail.com](mailto:thatana.b@gmail.com)
